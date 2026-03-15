@@ -1,0 +1,26 @@
+Qiskit advocate-created practice exams for the [Qiskit v2.X Developer Certification](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400) exam:
+
+| **Link to practice exam**                                                                                                                            | **Creator's Discord username**        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| [https://github.com/clausia/qiskit-v2.x-cert-practice-exam/blob/main/practice-exam-1.md](https://github.com/clausia/qiskit-v2.x-cert-practice-exam/blob/main/practice-exam-1.md)                                                           | clausia                           |
+| [https://github.com/SeattleQuantumComputingMeetup/qiskit_developer_certification/blob/main/Sample_Exam_Qiskit2.0_Developer_Certification_2025.pdf](https://github.com/SeattleQuantumComputingMeetup/qiskit_developer_certification/blob/main/Sample_Exam_Qiskit2.0_Developer_Certification_2025.pdf) | nhawkins_seattle                  |
+| [https://github.com/RishabGhosh98/QiskitAdvocate2025Assignments/blob/main/QiskitPracticeExam.pdf](https://github.com/RishabGhosh98/QiskitAdvocate2025Assignments/blob/main/QiskitPracticeExam.pdf)                                                  | rishabron                         |
+| [https://github.com/quantum-tokyo/qiskit-certification-prep](https://github.com/quantum-tokyo/qiskit-certification-prep)                                                                                       | dmurata                           |
+| [https://github.com/HichanBen/Quantum/tree/main/Qiskit%20v2.x%20Certification](https://github.com/HichanBen/Quantum/tree/main/Qiskit%20v2.x%20Certification)                                                                     | the_youri_                        |
+| [https://github.com/KurianUthuppu/ibm_qiskit_2_x](https://github.com/KurianUthuppu/ibm_qiskit_2_x)                                                                                                  | kurianuthuppu                     |
+| [https://github.com/rishihg/Qiskit-v2.x-Certification-practice-exam](https://github.com/rishihg/Qiskit-v2.x-Certification-practice-exam)                                                                               | rishihg                           |
+| [https://github.com/Luke-J-Miller/Qiskit-v2.X-developer-certification-practice-test](https://github.com/Luke-J-Miller/Qiskit-v2.X-developer-certification-practice-test)                                                               | luke_j_miller                     |
+| [https://github.com/ManuelEsparcia/v2.x-Certification-practice-exam/tree/main](https://github.com/ManuelEsparcia/v2.x-Certification-practice-exam/tree/main)                                                                     | manuel20039364                    |
+| [https://marcjermaine-pontiveros.github.io/qiskit-v2x-certification/](https://marcjermaine-pontiveros.github.io/qiskit-v2x-certification/)                                                                              | jermaineeeeeee                    |
+| [https://qubitquiz.substack.com/p/qubitquiz-week-1-25-qiskit-v2x-practice](https://qubitquiz.substack.com/p/qubitquiz-week-1-25-qiskit-v2x-practice)                                                                         | itsazombi                         |
+| [https://github.com/gnietof/QuantumTests/blob/main/exam1/exam1.md](https://github.com/gnietof/QuantumTests/blob/main/exam1/exam1.md)                                                                                 | gnietof                           |
+| [https://github.com/gnietof/QuantumTests/blob/main/exam2/exam2.md](https://github.com/gnietof/QuantumTests/blob/main/exam2/exam2.md)                                                                                 | gnietof                           |
+| [https://github.com/gnietof/QuantumTests/blob/main/exam3/exam3.md](https://github.com/gnietof/QuantumTests/blob/main/exam3/exam3.md)                                                                                 | gnietof                           |
+| [https://qubitquiz.substack.com/p/qubitquiz-week-2-25-qiskit-v2x-practice](https://qubitquiz.substack.com/p/qubitquiz-week-2-25-qiskit-v2x-practice)                                                                         | itsazombi                         |
+| [https://qubitquiz.substack.com/p/qubitquiz-week-3-25-qiskit-certification](https://qubitquiz.substack.com/p/qubitquiz-week-3-25-qiskit-certification)                                                                        | itsazombi                         |
+| [https://www.quantumglobalgroup.io/cert-prep](https://www.quantumglobalgroup.io/cert-prep)                                                                                                      | progressionsu and iconbaypark2900 |
+
+
+*Acknowledgements* 
+
+We'd like to thank all the Qiskit advocates listed above who have created these amazing resources! The time and effort you put into creating these practice exams is being hugely appreciated across the Qiskit community. 
